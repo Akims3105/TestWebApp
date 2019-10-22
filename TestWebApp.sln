@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{83FA2943-C353-46E1-AAEE-0867E20AFF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDatabase", "NorthwindDatabase\NorthwindDatabase.csproj", "{EE13F30B-DCC3-4BCC-944E-4181CDB58974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FA2943-C353-46E1-AAEE-0867E20AFF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FA2943-C353-46E1-AAEE-0867E20AFF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FA2943-C353-46E1-AAEE-0867E20AFF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA2943-C353-46E1-AAEE-0867E20AFF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE13F30B-DCC3-4BCC-944E-4181CDB58974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13F30B-DCC3-4BCC-944E-4181CDB58974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13F30B-DCC3-4BCC-944E-4181CDB58974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13F30B-DCC3-4BCC-944E-4181CDB58974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4AFB61-0AAB-4A38-AD04-E9B3986BBDF8}
+	EndGlobalSection
+EndGlobal
